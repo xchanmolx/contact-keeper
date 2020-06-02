@@ -1,0 +1,15 @@
+React Front To Back 2019
+
+Lesson 44. Add Contact Route
+Video: 4:39
+
+Create database username on Mongodb and Cluster name
+git clone
+npm init -y
+"main": "index.js" to "server.js"
+npm i express bcryptjs jsonwebtoken config express-validator mongoose
+npm i -D nodemon concurrently
+create scripts -> "start": "node server.js",
+create scripts -> "server": "nodemon server.js"
+run a server: npm run server
+step 1: create routes
